@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dewal\\OneDrive\\Documents\\Derdejaar Werk\\CMPG323\\Project2\\Project2API\\Project2API\\Project2API.csproj": {}
+    "C:\\Users\\dewal\\OneDrive\\Documents\\Derdejaar Werk\\CMPG323\\Project2\\CMPG-323-Overview-34223150\\Project2API\\Project2API\\Project2API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dewal\\OneDrive\\Documents\\Derdejaar Werk\\CMPG323\\Project2\\Project2API\\Project2API\\Project2API.csproj": {
+    "C:\\Users\\dewal\\OneDrive\\Documents\\Derdejaar Werk\\CMPG323\\Project2\\CMPG-323-Overview-34223150\\Project2API\\Project2API\\Project2API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dewal\\OneDrive\\Documents\\Derdejaar Werk\\CMPG323\\Project2\\Project2API\\Project2API\\Project2API.csproj",
+        "projectUniqueName": "C:\\Users\\dewal\\OneDrive\\Documents\\Derdejaar Werk\\CMPG323\\Project2\\CMPG-323-Overview-34223150\\Project2API\\Project2API\\Project2API.csproj",
         "projectName": "Project2API",
-        "projectPath": "C:\\Users\\dewal\\OneDrive\\Documents\\Derdejaar Werk\\CMPG323\\Project2\\Project2API\\Project2API\\Project2API.csproj",
+        "projectPath": "C:\\Users\\dewal\\OneDrive\\Documents\\Derdejaar Werk\\CMPG323\\Project2\\CMPG-323-Overview-34223150\\Project2API\\Project2API\\Project2API.csproj",
         "packagesPath": "C:\\Users\\dewal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dewal\\OneDrive\\Documents\\Derdejaar Werk\\CMPG323\\Project2\\Project2API\\Project2API\\obj\\",
+        "outputPath": "C:\\Users\\dewal\\OneDrive\\Documents\\Derdejaar Werk\\CMPG323\\Project2\\CMPG-323-Overview-34223150\\Project2API\\Project2API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

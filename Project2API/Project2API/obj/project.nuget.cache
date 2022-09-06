@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WbnCFDKZaf8h3WPZ4Z3NLW1zFB1ARngzcMyY1gaz1wkx6DcmO9dR8Esr7e215ZtTjAIvCx8lXSEWv4LmhSfheQ==",
+  "dgSpecHash": "4D4RauDljej9kXXxMSib7A9WUZ0Yn5+j8eYGO6DDYmS+QeZIBnN4cSMLzWtYJwir/jomQb4dwH/BxgVdp2pLyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dewal\\OneDrive\\Documents\\Derdejaar Werk\\CMPG323\\Project2\\Project2API\\Project2API\\Project2API.csproj",
+  "projectFilePath": "C:\\Users\\dewal\\OneDrive\\Documents\\Derdejaar Werk\\CMPG323\\Project2\\CMPG-323-Overview-34223150\\Project2API\\Project2API\\Project2API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dewal\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\dewal\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
