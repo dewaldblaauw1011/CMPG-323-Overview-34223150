@@ -20,7 +20,7 @@ namespace Project2.Controllers
             _context = context;
         }
 
-        // GET: api/Categories
+        //GET: api/Categories
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Category>>> GetCategory()
         {
