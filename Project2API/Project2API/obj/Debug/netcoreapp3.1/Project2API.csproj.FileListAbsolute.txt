@@ -134,3 +134,12 @@ C:\Users\dewal\OneDrive\Documents\Derdejaar Werk\CMPG323\Project2\Project2API\Pr
 C:\Users\dewal\OneDrive\Documents\Derdejaar Werk\CMPG323\Project2\Project2API\Project2API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\dewal\OneDrive\Documents\Derdejaar Werk\CMPG323\Project2\Project2API\Project2API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\dewal\OneDrive\Documents\Derdejaar Werk\CMPG323\Project2\Project2API\Project2API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dewal\OneDrive\Documents\Derdejaar Werk\CMPG323\Project2\CMPG-323-Overview-34223150\Project2API\Project2API\obj\Debug\netcoreapp3.1\Project2API.csproj.AssemblyReference.cache
+C:\Users\dewal\OneDrive\Documents\Derdejaar Werk\CMPG323\Project2\CMPG-323-Overview-34223150\Project2API\Project2API\obj\Debug\netcoreapp3.1\Project2API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dewal\OneDrive\Documents\Derdejaar Werk\CMPG323\Project2\CMPG-323-Overview-34223150\Project2API\Project2API\obj\Debug\netcoreapp3.1\Project2API.AssemblyInfoInputs.cache
+C:\Users\dewal\OneDrive\Documents\Derdejaar Werk\CMPG323\Project2\CMPG-323-Overview-34223150\Project2API\Project2API\obj\Debug\netcoreapp3.1\Project2API.AssemblyInfo.cs
+C:\Users\dewal\OneDrive\Documents\Derdejaar Werk\CMPG323\Project2\CMPG-323-Overview-34223150\Project2API\Project2API\obj\Debug\netcoreapp3.1\Project2API.csproj.CoreCompileInputs.cache
+C:\Users\dewal\OneDrive\Documents\Derdejaar Werk\CMPG323\Project2\CMPG-323-Overview-34223150\Project2API\Project2API\obj\Debug\netcoreapp3.1\Project2API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dewal\OneDrive\Documents\Derdejaar Werk\CMPG323\Project2\CMPG-323-Overview-34223150\Project2API\Project2API\obj\Debug\netcoreapp3.1\Project2API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dewal\OneDrive\Documents\Derdejaar Werk\CMPG323\Project2\CMPG-323-Overview-34223150\Project2API\Project2API\obj\Debug\netcoreapp3.1\Project2API.dll
+C:\Users\dewal\OneDrive\Documents\Derdejaar Werk\CMPG323\Project2\CMPG-323-Overview-34223150\Project2API\Project2API\obj\Debug\netcoreapp3.1\Project2API.pdb
