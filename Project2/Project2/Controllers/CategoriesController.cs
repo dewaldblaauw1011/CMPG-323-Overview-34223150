@@ -102,6 +102,19 @@ namespace Project2.Controllers
             return CreatedAtAction("GetCategory", new { id = category.CategoryId }, category);
         }
 
+        // PATCH: api/Category/5
+        [HttpPatch("Patch Category via ID")]
+        public async Task<ActionResult<Category>> UpdateCategory(Guid CategoryId, [FromBody] string CategoryName, string CategoryDescription, DateTime DateCreated)
+        {
+            var category = await _context.Category.FindAsync(CategoryId);
+
+            category.CategoryName = CategoryName;
+            category.CategoryDescription = CategoryDescription;
+            category.DateCreated = DateCreated;
+
+            return category;
+        }
+
         // DELETE: api/Categories/5
         [HttpDelete("{id}")]
         public async Task<ActionResult<Category>> DeleteCategory(Guid id)

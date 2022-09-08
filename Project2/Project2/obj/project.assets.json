@@ -660,11 +660,11 @@
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Relational.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.SqlServer/3.1.28": {
+      "Microsoft.EntityFrameworkCore.SqlServer/3.1.25": {
         "type": "package",
         "dependencies": {
           "Microsoft.Data.SqlClient": "1.1.3",
-          "Microsoft.EntityFrameworkCore.Relational": "3.1.28"
+          "Microsoft.EntityFrameworkCore.Relational": "3.1.25"
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
@@ -3754,17 +3754,17 @@
         "microsoft.entityframeworkcore.relational.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.SqlServer/3.1.28": {
-      "sha512": "3knmvcxljR+4FwkyOvRBErnizWSAZxgtP6W3FHzLJPJOm3NyLCUpzcCQJJN1mGGAUuVFq1e2lq+o5c2uHClqTA==",
+    "Microsoft.EntityFrameworkCore.SqlServer/3.1.25": {
+      "sha512": "WSZBuDW8KNemgC0XMDAq1rEIzDvW/BMDr7t+iYAZhNIDpRD3KJGQsaO5rGtW+E6hjbX6NTni7pREsBnIJfDXIA==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.sqlserver/3.1.28",
+      "path": "microsoft.entityframeworkcore.sqlserver/3.1.25",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.SqlServer.dll",
         "lib/netstandard2.0/Microsoft.EntityFrameworkCore.SqlServer.xml",
-        "microsoft.entityframeworkcore.sqlserver.3.1.28.nupkg.sha512",
+        "microsoft.entityframeworkcore.sqlserver.3.1.25.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
       ]
     },
@@ -9649,7 +9649,7 @@
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.28",
       "Microsoft.EntityFrameworkCore >= 3.1.28",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.28",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.28",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.25",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.25",
       "Microsoft.OpenApi >= 1.4.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.5",
@@ -9724,7 +9724,7 @@
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
-            "version": "[3.1.28, )"
+            "version": "[3.1.25, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
