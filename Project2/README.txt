@@ -13,3 +13,7 @@ The API is managed and hosted on Azure portal and the link to my Azure solution 
 The database is migrated and fully integrated with both SQL Server and Azure.
 Server name:  project2dewaldblaauw323.database.windows.net
 Service Login : serviceadmin
+
+Azure API endpoint
+Base URL: https://apiproject2.azure-api.net
+
