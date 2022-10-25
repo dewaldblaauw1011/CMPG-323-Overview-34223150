@@ -1,0 +1,6 @@
+- https://forum.uipath.com/t/non-invocable-member-cannot-be-used-like-a-method/239595
+- https://www.youtube.com/watch?v=vnhWtP0Z5uQ
+- https://www.youtube.com/results?search_query=How+to+automate+excel+data+extraction+and+writing+to+website+with+UIPath+studios
+- https://academy.uipath.com/
+- https://academy.uipath.com/courses/introduction-to-rpa-and-automation
+- https://www.uipath.com/learning/video-tutorials/excel-datatables-automation
