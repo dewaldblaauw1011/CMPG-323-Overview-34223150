@@ -1,0 +1,6 @@
+- https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-combo-chart?tabs=powerbi-desktop
+- https://community.powerbi.com/t5/Desktop/Custom-Visualisation-for-multiple-legends-and-values/m-p/645218
+- https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-customize-x-axis-and-y-axis
+- https://www.youtube.com/watch?v=huEspQGPtOw
+- https://www.youtube.com/results?search_query=How+to+make+page+bigger+in+power++bi
+- https://powerbi.microsoft.com/en-in/desktop/
